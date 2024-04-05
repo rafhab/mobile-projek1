@@ -1,16 +1,25 @@
-# aplikasiprojek1
+# Judul: Aplikasi Dadu Flutter
 
-A new Flutter project.
+## Deskripsi Singkat:
+Saya akan memperkenalkan Aplikasi Dadu Flutter! Ini adalah aplikasi sederhana yang saya buat dengan Flutter yang memungkinkan Anda melempar dadu virtual dengan mudah. Cukup tekan tombol "Lempar Dadu" dan aplikasi akan menghasilkan angka acak antara 1 hingga 6, menampilkan hasilnya dalam bentuk gambar mata dadu.
 
-## Getting Started
+## Fitur Utama:
 
-This project is a starting point for a Flutter application.
+- Lempar Dadu: Dengan menekan tombol "Lempar Dadu", Anda dapat melempar dadu virtual sebanyak yang Anda inginkan.
+- Tampilan Mata Dadu: Setiap kali melempar dadu, aplikasi akan menampilkan gambar mata dadu yang sesuai dengan hasil lemparan.
+- Interaktif: Aplikasi ini memungkinkan Anda untuk terus melempar dadu dan menikmati kesenangan dan kegabutan tanpa batas!
 
-A few resources to get you started if this is your first Flutter project:
+## Struktur Proyek:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> - lib/main.dart: Ini adalah file utama yang berisi kode untuk menjalankan aplikasi dan mengatur tata letak utama.
+> - lib/dice_widget.dart: Di sinilah widget untuk menampilkan layar dadu dan logika untuk melempar dadu terletak.
+> - test/widget_test.dart: File yang berisi unit test untuk memastikan aplikasi berfungsi dengan baik.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Requirements:
+
+- Flutter SDK
+- Dart Programming Language
+- VS Studio
+
+### Pengembang:
+Muhammad Ida Bagus Rafi Habibie 
